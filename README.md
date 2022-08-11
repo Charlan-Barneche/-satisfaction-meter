@@ -1,6 +1,6 @@
 <body >
     <h1 align = 'center'><strong>Medidor de satisfação</strong></h1>
-    <p align = 'center'>O projeto conta com um metodo muito usado para obter o grau de satisfação dos clientes usando o metodo forEach</p>
+    <p align = 'center'>O projeto conta com um metodo muito usado para obter o grau de satisfação dos clientes</p>
     <p>Para o projeto usei as seguintes tecnologias:</p>
     <div>
         <ul>
